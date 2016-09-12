@@ -1,0 +1,41 @@
+
+
+   .nav h1 {  
+    font-size: 35px;
+    }
+
+   .form-control {
+    margin-top: 20px;  
+    }
+   
+   .control {
+    height: 80px; 
+    }
+   
+    .input-group {
+     width: 350px;
+     }
+    
+    .checkbox {
+    margin-top: 15px; 
+    }
+   
+    .btn {
+    width: 90px;  
+    margin: 20px 130px 0px 130px;
+    }
+    
+    .table {
+    width: 350px;
+    margin-top: 15px;
+    margin-left: 25%;
+    }
+     
+    th {
+    background-color:#ebfafa; 
+    }
+    
+    p {
+    margin-left: 25%;
+     }
+ 
